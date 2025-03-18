@@ -39,4 +39,6 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homeroso)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homeroso&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Homeroso&theme=dark" alt="Homeroso" /></p>
